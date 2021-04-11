@@ -79,15 +79,23 @@ Please make sure to update data as appropriate.
 ## Bibliography
 
 Alberto Godio, Francesca Pace, and Andrea Vergnano, SEIR Modeling of the Italian Epidemic of SARS-CoV-2 Using Computational Swarm Intelligence, Int J Environ Res Public Health, 17:10(2020): 3535.
+
 Baidu. How Baidu is bringing AI to the fight against coronavirus. MIT Technology Review. March 2020. [https://www.technologyreview.com/2020/03/11/905366/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/ last accessed: 25th November 2020]
 David Pringle. Computer science versus COVID-19. Science Business. March 2020. [https://sciencebusiness.net/covid-19/news/computer-science-versus-covid-19 last accessed: 23rd November 2020]
+
 Henri Froese. Infectious Disease Modelling: Beyond the Basic SIR Model. April 2020 [https://towardsdatascience.com/infectious-disease-modelling-beyond-the-basic-sir-model-216369c584c4 last accessed: 1st December 2020]
+
 Julie Shah and Neel Shah. Fighting Coronavirus with Big Data. Harvard Business Review. April 2020. [https://hbr.org/2020/04/fighting-coronavirus-with-big-data last accessed: 29th November 2020]
+
 Mwalili, S., Kimathi, M., Ojiambo, V. et al. SEIR model for COVID-19 dynamics incorporating the environment and social distancing. BMC Res Notes 13(2020):352.
 Rob Mitchum. How computer science can help fight COVID-19. UChicagoNews. July 2020. [https://news.uchicago.edu/story/how-computer-science-can-help-fight-covid-19 last accessed: 23rd November 2020]
+
 Tom Rocks Maths. Oxford Mathematician explains SIR Disease Model for COVID-19 (Coronavirus). Tom Rocks Maths YouTube. March 2020. [https://www.youtube.com/watch?v=NKMHhm2Zbkw last accessed: 10th December 2020]
+
 Undefined. SEIR and SEIRS models; HIV Model documentation. Bill and Melinda Gates foundation. 2020 [https://docs.idmod.org/projects/emod-hiv/en/latest/model-seir.html last accessed: 1st December 2020]
+
 3Blue1Brown. Simulating an epidemic. 3Blue1Brown YouTube. March 2020. [https://www.youtube.com/watch?v=gxAaO2rsdIs&t=1038s last accessed: 10th December] 
+
 
 
 ## License
