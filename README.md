@@ -57,8 +57,13 @@ R0 = effective_contact_rate / recovery_rate
 
 The course and the stages of the pandemic without any measures imposed by Cyprus Government, are illustrated in Figure1, predicting an alarming number of infections at about 280 000 resulting to 12 255 deaths, raising concerns about the resilience of the healthcare systems. 
 
+![figure 1](https://user-images.githubusercontent.com/63063093/114308233-ccdd9d80-9aeb-11eb-8494-e61fcdb032c8.PNG)
+
 
 A decrease in the transmission rate caused by a lockdown (represented as a factor calculated by dividing the transmission rate after and before the lockdown), results in the model predicting a flattening of the curves of Deaths and Infections, implying a release of pressures on the healthcare system.
+
+![figure 2 1](https://user-images.githubusercontent.com/63063093/114308259-df57d700-9aeb-11eb-8d42-99b93c0acdad.PNG) ![figure 2](https://user-images.githubusercontent.com/63063093/114308276-ebdc2f80-9aeb-11eb-9202-7eceb088efd6.PNG)
+
 
 ## Conclusion
 
